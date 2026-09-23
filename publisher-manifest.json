@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6a0e70e0075e699a3ab76ced",
+  "owner": "espdhy",
+  "repo": "page-078b825c26709bb9e3ed033c",
+  "title": "风花雪月",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "078b825c26709bb9e3ed033c",
+      "a": "风花雪月",
+      "b": "机场官网线路发布页",
+      "entity": "风花雪月",
+      "brand": "风花雪月",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3cc3fa9c341b60e51f8959d37a489504a7973b0fa76b3ecacb23a4ba7d483672",
+      "content": {
+        "primary_entity": "风花雪月",
+        "keyword1": "风花雪月",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，风花雪月面向需要稳定海外网络加速的用户，提供基础版、旗舰版和团队版三档套餐，月付起步价 ¥15，按年付最低 ¥150/年。不同套餐在每月流量、同时在线设备数量和节点类型上有明确区分，并结合 Clash、Shadowrocket、v2rayN 等常见客户端做订阅配置。",
+          "AI_HERO_SUBTITLE": "轻量起步，按设备选套餐",
+          "AI_HERO_INTRO": "风花雪月提供三档海外网络加速套餐，基础版适合手机与平板日常使用，旗舰版加入 IPLC 专线和流媒体解锁，团队版面向多设备与高带宽场景。订阅创建后可直接导入常见客户端。",
+          "AI_VISUAL_TITLE": "风花雪月 多档加速套餐",
+          "AI_HIGHLIGHT_1": "月付低至 ¥15 起",
+          "AI_HIGHLIGHT_2": "三档流量满足不同设备量",
+          "AI_HIGHLIGHT_3": "年付方案更省日常开销",
+          "AI_FEATURES_TITLE": "套餐差异一目了然",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度选择风花雪月套餐，避免为用不到的资源付费。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按使用强度匹配即可。",
+          "AI_FEATURE_TITLE_2": "按设备数选版本",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，多设备家庭或小团队可优先考虑团队版。",
+          "AI_FEATURE_TITLE_3": "按线路类型选体验",
+          "AI_FEATURE_TEXT_3": "旗舰版和团队版提供 IPLC 专线或 VIP 高带宽节点，对游戏延迟和流媒体解锁有更高要求时可选这两档。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用对应的客户端导入订阅，Android、iOS、Windows、macOS 和路由器均有常见工具支持。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，可按流量和设备数快速定位。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先确认套餐与设备，再准备客户端，最后导入订阅地址完成配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统和客户端类型，例如 Windows 可用 v2rayN，Android 可用 Clash for Android。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在客户端中依照文档添加订阅地址，更新节点后即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "风花雪月套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看每月流量需求，再看同时在线设备数。单人手机加电脑可选基础版，多设备或需要 IPLC 专线可选旗舰版，20 台设备以上可选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在多少台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时可升级套餐或减少同时连接。",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在对应客户端中添加订阅或配置地址，更新节点列表后启用。不同客户端入口名称略有差异，可参照客户端文档操作。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付方案按年一次性支付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比按月支付更节省长期开销。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版适合有流媒体解锁和游戏加速需求的个人用户，团队版适合多设备并行、高带宽或需要定制路由的小型团队。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_CLOSING_TEXT": "先确定设备数量和月流量，再选择风花雪月套餐并完成客户端订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rktjckq.cn",
+    "host": "rktjckq.cn"
+  },
+  "file_hashes": {
+    "index.html": "e4ebd081bd31aec711352c7eed71d48010140844fc217a7ff331ffc0bafafa18",
+    "sitemap.xml": "5110665b7b7f90f73d548f3748a90f874c6071195468079c063e701b1f6f83a8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cafa66e8d3c7e48fdd6207c7dbbc8b4dbb57e4c82a4dd59d07b26cc2b8d0d797",
+    "robots.txt": "9bcb89ce434359683caa89c595fbee9b1a990f1a4e37190304046b3ce68f40ee",
+    "5ba830252568ea844d8e365cdd1e30f7.txt": "03a38faab688d60981d4cf2e40ee8fe9905920ceee15020a0ca6f8c3e801dade"
+  },
+  "revision": "f51924b29a1d8e0ec7acae78d0b2f1141dcf235bc7165797f3522658f01495b7"
+}
